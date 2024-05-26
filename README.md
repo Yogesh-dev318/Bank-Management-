@@ -1,2 +1,2 @@
 # Bank-Management-
-Bank Management System using Java and MQSQL
+Bank Management System using Java and MYSQL
